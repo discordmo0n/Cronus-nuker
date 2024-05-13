@@ -6,3 +6,6 @@
 
 # safe?
 **Yes this exe is safe, feel free to scan it in tria.ge**
+
+# password
+**password = virtual**
